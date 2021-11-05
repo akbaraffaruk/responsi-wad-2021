@@ -103,7 +103,7 @@
                 <h1>Penugasan</h1>
                 <h3>(=)</h3>
                 <p> $_variabel1 = 10;</p>
-                <p> $variabel2 = 7;</p>
+                <p> $variabel2 = 2;</p>
                 <p> $total = $_variabel1 = $variabel2;</p>
 
                 <?php
@@ -206,6 +206,7 @@
                 $_variabel1++;
                 $total = $_variabel1;
 
+              
                 echo "total = " . $total;
                 ?>
                 <h3>Decreament</h3>
